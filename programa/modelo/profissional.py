@@ -8,6 +8,7 @@ class Medico(Usuario):
             idade,
             cpf,
             sexo,
+            localizacao,
             preco_consulta,
             convenios,
             temp_atividade,
@@ -15,7 +16,7 @@ class Medico(Usuario):
             crm,
             especializacao
     ):
-        super().__init__(nome, idade, cpf, sexo)
+        super().__init__(nome, idade, cpf, sexo, localizacao)
         self.preco_consulta = preco_consulta
         self.convenios = convenios
         self.temp_atividade = temp_atividade
