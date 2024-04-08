@@ -1,33 +1,32 @@
 class Usuario:
 
     def __init__(self, nome, idade, cpf, sexo, localizacao):
-        self.__nome = nome
-        self.__idade = idade
-        self.__cpf = cpf
-        self.__sexo = sexo
-        self.__localizacao = localizacao
+        self.nome = nome
+        self.idade = idade
+        self.cpf = cpf
+        self.sexo = sexo
+        self.localizacao = localizacao
 
     def get_nome(self):
-        return self.__nome
+        return self.nome
 
     def get_idade(self):
-        return self.__idade
+        return self.idade
 
     def get_cpf(self):
-        return self.__cpf
+        return self.cpf
 
     def get_sexo(self):
-        return self.__sexo
+        return self.sexo
 
     def set_nome(self, nome):
-        self.__nome = nome
+        self.nome = nome
 
     def set_idade(self, idade):
-        self.__idade = idade
+        self.idade = idade
 
     def set_cpf(self, cpf):
-        self.__cpf = cpf
+        self.cpf = cpf
 
     def set_sexo(self, sexo):
-        self.__sexo = sexo
-
+        self.sexo = sexo

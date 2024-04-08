@@ -33,7 +33,7 @@ class TelaInicial(CTk):
         self.especialidades_label = CTkLabel(self.card_profissional, text="Especialidades:", font=CTkFont(size=11))
         self.especialidades_campo = CTkLabel(self.card_profissional, text="exemplo", font=CTkFont(size=13))
 
-        self.planos_label = CTkLabel(self.card_profissional, text="Panos:", font=CTkFont(size=12))
+        self.planos_label = CTkLabel(self.card_profissional, text="Planos:", font=CTkFont(size=12))
         self.planos_campo = CTkLabel(self.card_profissional, text="Santa casa", font=CTkFont(size=15))
 
         self.crm_label = CTkLabel(self.card_profissional, text="CRM:", font=CTkFont(size=12))
