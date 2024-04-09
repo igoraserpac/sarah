@@ -90,8 +90,3 @@ class TelaInicial(CTk):
     def like_button_event(self):
         self.prox_paciente()
         self.update_card()
-
-
-if __name__ == "__main__":
-    app = TelaInicial()
-    app.mainloop()

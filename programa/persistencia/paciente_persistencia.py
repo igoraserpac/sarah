@@ -1,12 +1,11 @@
-from programa.modelo.profissional import *
 import csv
 
 
-class PacientePersistencia():
+class PacientePersistencia:
 
     def get_pacientes(self):
         vetor_pacientes = []
-        with open('../persistencia/pacientes.csv') as pacientes:
+        with open('persistencia/pacientes.csv') as pacientes:
             leitor = csv.reader(pacientes, delimiter=',')
             cabecalho = next(leitor)
             for linha in leitor:
