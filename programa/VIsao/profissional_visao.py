@@ -1,7 +1,7 @@
 from customtkinter import *
 import csv
-from programa.modelo.paciente import *
-from programa.controle.profissional_controle import *
+from programa.Modelo.paciente import *
+from programa.Controle.profissional_controle import *
 
 
 class TelaInicial(CTk):

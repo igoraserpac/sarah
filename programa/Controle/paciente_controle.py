@@ -1,6 +1,6 @@
-from programa.modelo.profissional import *
-from programa.persistencia.profissional_persistencia import *
-from programa.persistencia.paciente_persistencia import *
+from programa.Modelo.profissional import *
+from programa.Persistencia.profissional_persistencia import *
+from programa.Persistencia.paciente_persistencia import *
 
 
 class ControlePaciente:

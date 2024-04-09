@@ -1,5 +1,5 @@
 from customtkinter import *
-from programa.controle.paciente_controle import *
+from programa.Controle.paciente_controle import *
 
 
 class TelaInicial(CTk):
