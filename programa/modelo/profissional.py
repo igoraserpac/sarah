@@ -1,4 +1,4 @@
-from user import *
+from programa.modelo.user import *
 
 
 class Medico(Usuario):

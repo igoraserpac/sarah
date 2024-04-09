@@ -1,0 +1,11 @@
+nome,idade,cpf,sexo,localizacao,preco_consulta,convenios,temp_atividade,formacao,crm,especializacao
+Ana Clara da Silva,35,12345678900,Feminino,São Paulo,200.00,Amil,10,UNESP,123456,Cardiologista
+João Pedro de Oliveira,40,23456789011,Masculino,São Paulo,150.00,Unimed,5,USP,7891011,Oftalmologista
+Maria Fernanda Souza,45,34567890122,Feminino,São Paulo,120.00,Bradesco Saúde,8,UNICAMP,3456789,Pediatra
+Bruno Santos,30,45678901233,Masculino,São Paulo,80.00,SulAmérica,2,UFU,10111213,Clínico Geral
+Camila Ribeiro,50,56789012344,Feminino,São Paulo,180.00,Golden Cross,15,UNESP,14151617,Ginecologista
+Eduardo Costa,42,67890123455,Masculino,São Paulo,160.00,NotreDame Intermédica,7,USP,18192021,Urologista
+Gabriela Silva,32,78901234566,Feminino,São Paulo,140.00,Hapvida,3,UNICAMP,22232425,Dermatologista
+Henrique Oliveira,55,89012345677,Masculino,São Paulo,250.00,São Francisco Saúde,12,UFU,26272829,Psiquiatra
+Isabela Santos,28,90123456788,Feminino,São Paulo,100.00,Allianz Saúde,4,UNESP,30313233,Fisioterapeuta
+Leonardo Ribeiro,35,01234567899,Masculino,São Paulo,90.00,Cabesp,6,USP,34353637,Nutricionista

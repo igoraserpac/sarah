@@ -1,0 +1,11 @@
+nome,idade,cpf,sexo,localizacao,faixa_preco,convenios
+Ana Clara da Silva,35,12345678900,Feminino,São Paulo,100-200,Amil,Bradesco Saúde
+João Pedro de Oliveira,40,23456789011,Masculino,Rio de Janeiro,200-300,Unimed,Hapvida
+Maria Fernanda Souza,45,34567890122,Feminino,Belo Horizonte,300-400,Golden Cross,NotreDame Intermédica
+Bruno Santos,30,45678901233,Masculino,Salvador,400-500,SulAmérica,São Francisco Saúde
+Camila Ribeiro,50,56789012344,Feminino,Fortaleza,500-600,Allianz Saúde,Cabesp
+Eduardo Costa,42,67890123455,Masculino,Brasília,600-700,Amil,Unimed
+Gabriela Silva,32,78901234566,Feminino,Recife,700-800,Golden Cross,Hapvida
+Henrique Oliveira,55,89012345677,Masculino,Manaus,800-900,NotreDame Intermédica,SulAmérica
+Isabela Santos,28,90123456788,Feminino,Curitiba,900-1000,São Francisco Saúde,Allianz Saúde
+Leonardo Ribeiro,35,01234567899,Masculino,Porto Alegre,1000+,Cabesp,Amil
