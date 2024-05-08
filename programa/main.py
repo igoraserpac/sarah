@@ -3,5 +3,5 @@ import programa.visao.profissional_visao as prv
 
 
 if __name__ == '__main__':
-    tela = prv.TelaInicial()
+    tela = pav.TelaInicial()
     tela.mainloop()
